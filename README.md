@@ -1,4 +1,4 @@
 ## Avalanche!
 This is an Android mobile game built in Unity.  Escape the avalanche before it consumes you!
 
-![avalanche](https://user-images.githubusercontent.com/35542660/61188029-021b3a00-a63f-11e9-9bb3-bf8f692b7395.JPG)
+<img width="700" alt="avalanche" src="https://user-images.githubusercontent.com/35542660/61188114-1f043d00-a640-11e9-9ffa-77c0bca1f89b.png">
